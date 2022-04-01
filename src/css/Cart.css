@@ -1,0 +1,9 @@
+.cart-item{
+    padding: 50px 100px;
+    background-color: rgb(218, 255, 248,0.3);
+    margin: 20px 0;
+}
+.price{
+    text-align: center;
+    background-color: rgb(116, 245, 62)
+}
